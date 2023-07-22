@@ -1,0 +1,2 @@
+robot_sdk
+-DCATKIN_DEVEL_PREFIX=/home/amax/aubo_sdk_test/devel -DCMAKE_INSTALL_PREFIX=/home/amax/aubo_sdk_test/install -G Unix Makefiles

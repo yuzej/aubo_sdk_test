@@ -1,0 +1,1 @@
+/usr/bin/c++ -rdynamic CMakeFiles/kdl_main.dir/src/kdl_fk_main.cpp.o -o /home/amax/aubo_sdk_test/devel/lib/robot_sdk/kdl_main  -lauborobotcontroller -llog4cplus -lpthread -lkdl_parser -lorocos-kdl 
